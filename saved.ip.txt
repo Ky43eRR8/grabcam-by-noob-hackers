@@ -1,0 +1,11 @@
+IP: 149.154.161.6
+ User-Agent: TelegramBot (like TwitterBot)IP: 149.154.161.20
+ User-Agent: TelegramBot (like TwitterBot)IP: 195.211.23.206
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)IP: 95.142.195.143
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)IP: 95.142.196.133
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)IP: 95.142.197.2
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)IP: 2a00:1fa0:4af:696b:e5f6:fcf1:1987:366d
+ User-Agent: Mozilla/5.0 (Linux; Android 10; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36IP: 2a00:1fa0:4af:696b:e5f6:fcf1:1987:366d
+ User-Agent: Mozilla/5.0 (Linux; Android 10; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36IP: 178.45.163.122
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0IP: 2a00:1fa0:4af:696b:e5f6:fcf1:1987:366d
+ User-Agent: Mozilla/5.0 (Linux; Android 10; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
